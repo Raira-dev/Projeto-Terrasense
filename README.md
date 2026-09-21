@@ -3,11 +3,17 @@
 Protótipo funcional do TerraSense, app de controle de grama e gramíneas em rodovias, desenvolvido em React Native + Expo + JavaScript. A ideia é usar sensores para medir a altura da grama e câmeras para conferir o resultado, indicando quais trechos precisam de manutenção.
 
 ## Integrantes
-Nome: Anna Luiza       RM: 563171
-Nome: Gislene Muñoz    RM: 563804
-Nome: Larissa Machado  RM: 564168
-Nome: Raira T. Costa   RM: 564850
-Nome: Sofia Franken    RM: 562767
+
+Nome: Anna Luiza
+
+Nome: Gislene Muñoz
+
+Nome: Larissa Machado
+
+Nome: Raira T. Costa
+
+Nome: Sofia Franken
+
 
 ## O que o app faz
 
