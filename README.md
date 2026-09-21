@@ -98,10 +98,6 @@ O componente `src/components/MapaTrecho.js` exibe o trecho da rodovia sobre o Op
 5. Posicionar as células do mapa a partir das coordenadas reais dos trechos.
 6. Revisar consistência visual e modo escuro em todas as telas.
 
-## Testes
-
-O documento de testes manuais está em [`docs/TESTES_MANUAIS.md`](docs/TESTES_MANUAIS.md) e o roteiro do vídeo em [`docs/ROTEIRO_VIDEO.md`](docs/ROTEIRO_VIDEO.md).
-
 ## Observação
 
 Sensores, gráficos e registros são simulados localmente. Não há backend conectado.
